@@ -1,0 +1,5 @@
+git--version : mostrar a versão instalada
+git config: configurar
+git init: para inicializar
+git add . : adicionar todos os arquivos ao repositório
+git status: verifica (é bom verificar sempre)
